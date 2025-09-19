@@ -1,0 +1,30 @@
+[
+  {
+    "id": 11,
+    "tema_value": "portugues",
+    "qr_code_id": 1,
+    "charada_texto": "Aqui as palavras ganham vida,\nem silêncio ou em voz ativa.\nEntre livros e páginas, sou o lar da leitura.\nOnde estou?",
+    "resposta_texto": "biblioteca"
+  },
+  {
+    "id": 25,
+    "tema_value": "portugues",
+    "qr_code_id": 2,
+    "charada_texto": "Sou onde se escreve e se lê, onde a gramática ganha poder. Se quiser dominar a língua, é aqui que deve aprender.",
+    "resposta_texto": "sala aula"
+  },
+  {
+    "id": 37,
+    "tema_value": "portugues",
+    "qr_code_id": 3,
+    "charada_texto": "Tenho páginas e capas, guardo histórias sem fim. Quem me abre, viaja pelo mundo das palavras. Quem sou?",
+    "resposta_texto": "livro"
+  },
+  {
+    "id": 48,
+    "tema_value": "portugues",
+    "qr_code_id": 4,
+    "charada_texto": "Sou onde se escrevem palavras que ditam regras, onde o raciocinio e criatividade se encontram. Onde estou?",
+    "resposta_texto": "laboratório de informática"
+  }
+]

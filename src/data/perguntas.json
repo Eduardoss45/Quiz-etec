@@ -1,0 +1,976 @@
+{
+  "tema": "portugues",
+  "perguntas": [
+    {
+      "id": 6,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Qual a principal característica do Parnasianismo?",
+      "opcoes": [
+        "ambientação bucólica e pastoral",
+        "subjetivismo e herói nacional",
+        "estética e forma",
+        "relação entre suserana e vassalo",
+        "Seres fantásticos e moral"
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 7,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Das palavras abaixo, o que explica o significado de hermético é:",
+      "opcoes": ["assonante", "subjetivo", "objetivo", "sinestésico", "aproveitar o dia"],
+      "resposta_correta": 1
+    },
+    {
+      "id": 8,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Qual movimento literário se caracteriza pelo uso de linguagem vaga, imprecisa, alta subjetividade, sinestesia e interesse pela loucura?",
+      "opcoes": ["Parnasianismo", "Romantismo", "Simbolismo", "Modernismo", "Naturalismo"],
+      "resposta_correta": 2
+    },
+    {
+      "id": 9,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "A frase, \"Não é só a morte que iguala a gente. O crime a doença e a loucura também acabam com as diferenças que a gente inventa\", pertence a qual autor?",
+      "opcoes": [
+        "Euclides da Cunha",
+        "Augusto dos Anjos",
+        "Lima Barreto",
+        "Alphonsus de Guimarães",
+        "Raimundo Correa"
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 10,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "A crase é a junção de:",
+      "opcoes": [
+        "pronome e artigo",
+        "preposição e artigo",
+        "preposição e conjunção",
+        "conjunção e artigo",
+        "conjunção e conjunção"
+      ],
+      "resposta_correta": 1
+    },
+    {
+      "id": 11,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Em que ano iniciou o simbolismo no Brasil?",
+      "opcoes": ["1890", "1920", "1870", "1893", "1896"],
+      "resposta_correta": 3
+    },
+    {
+      "id": 12,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "\"_____ ela se afastou? Ainda não entendi o _____.\"\nSelecione a alternativa que complete corretamente a frase.",
+      "opcoes": [
+        "Porque, por quê",
+        "Por quê, porque",
+        "Por que, porquê",
+        "Porquê, por que",
+        "Porque, por que"
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 13,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "O conectivo \"Por Analogia...\" pertence a qual tipo de conectivo?",
+      "opcoes": ["Comparação", "Adição", "Oposição", "Causa", "Conclusão"],
+      "resposta_correta": 0
+    },
+    {
+      "id": 14,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Quem publicou o manifesto que deu origem ao movimento futurista?",
+      "opcoes": [
+        "Filippo Tommaso.",
+        "Giacomo Balla.",
+        "Umberto Boccioni.",
+        "Luigi Russolo.",
+        "Gino Severini."
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 15,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Um dos nomes que mais se destaca entre os autores do pré-modernismo é:",
+      "opcoes": [
+        "Lima Barreto",
+        "Carolina Maria de Jesus",
+        "Clarice Lispector",
+        "José de Alencar",
+        "Machado de Assis"
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 16,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Em qual frase o uso da crase esta correto?",
+      "opcoes": [
+        "Cheguei à escola atrasado.",
+        "Entreguei o presente à ele.",
+        "Vou à pé para o trabalho.",
+        "O autor se comparou à alguém que tem boa memória."
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 17,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Quais destes poetas não fazem parte do Parnasianismo?",
+      "opcoes": ["Alberto de Oliveira", "Raimundo Costa", "Castro Alves", "Olavo Bilac"],
+      "resposta_correta": 2
+    },
+    {
+      "id": 18,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "\"_____ você está me perguntando isso? Não sei o _____ de tanta desconfiança.\" Assinale a alternativa que preencha corretamente os campos.",
+      "opcoes": [
+        "Porque, porque",
+        "Por que, porquê",
+        "Por que, porque",
+        "Porquê, por quê",
+        "Por quê, porquê"
+      ],
+      "resposta_correta": 1
+    },
+    {
+      "id": 19,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "Qual movimento literário é caracterizado pelo interesse pela loucura e pelas cenas profundas da mente humana?",
+      "opcoes": ["Barroco", "Parnasianismo", "Positivismo", "Modernismo", "Simbolismo"],
+      "resposta_correta": 4
+    },
+    {
+      "id": 20,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "O realismo e o naturalismo apresentam algumas semelhanças como o afastamento da subjetividade, combate ao sentimentalismo, maior uso da razão e aprimoração da ciência. Embora parecidos, o uso da ciência os diferencia, sendo:",
+      "opcoes": [
+        "Realismo ligado à biologia e naturalismo à psicologia.",
+        "Naturalismo diretamente ligado à biologia e realismo à psicologia.",
+        "Realismo representando objetos e naturalismo comportamento humano.",
+        "Realismo ligado à realidade comum e naturalismo à metáforas.",
+        "Nenhuma das alternativas anteriores."
+      ],
+      "resposta_correta": 1
+    },
+    {
+      "id": 21,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "\"_____ 5 anos fui _____ Alemanha.\"\nSelecione a alternativa que complete corretamente a frase.",
+      "opcoes": ["Há, a", "A, há", "A, a", "Há, à", "Hà, à"],
+      "resposta_correta": 3
+    },
+    {
+      "id": 22,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Quem foi Olavo Bilac?",
+      "opcoes": [
+        "Um poeta parnasiano",
+        "Um poeta dadaísta",
+        "Um poeta trovadoresco",
+        "Um poeta simbolista",
+        "Um poeta surrealista"
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 23,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "\"Ela chora rios de lágrimas\", essa frase representa qual figura de linguagem?",
+      "opcoes": ["Metáfora.", "Hipérbole.", "Eufemismo.", "Ironia."],
+      "resposta_correta": 1
+    },
+    {
+      "id": 24,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "Selecione a alternativa que apresenta uma palavra com 6 (seis) fonemas.",
+      "opcoes": ["Garrafas", "Sussurro", "Escriba", "Concha", "Folhas"],
+      "resposta_correta": 1
+    },
+    {
+      "id": 25,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "\"Sentou-se ___ mesa e pôs-se ___ comer uma ___ uma ___ uvas que estavam sobre ___ mesa\". Assinale a alternativa que preenche corretamente as lacunas acima.",
+      "opcoes": [
+        "a - a - a - as - a",
+        "à - a - a - as - à",
+        "à - à - à - às - a",
+        "à - à - a - as - a",
+        "à - a - a - as - a"
+      ],
+      "resposta_correta": 4
+    },
+    {
+      "id": 26,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Na poesia romântica byronista o que os autores buscavam representar?",
+      "opcoes": [
+        "Preciosidade das terras brasileiras.",
+        "Liberdade.",
+        "Felicidade e jovialidade.",
+        "A impossibilidade de viver um amor e ter um final feliz.",
+        "Valorização das formas."
+      ],
+      "resposta_correta": 3
+    },
+    {
+      "id": 27,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "O simbolismo foi um movimento literário que ocorreu de 1893 a 1922, caracterizado pela negação do positivismo, linguagem vaga, interesse pelas zonas profundas da mente humana e musicalidade. Qual alternativa traz um grande autor desse movimento.",
+      "opcoes": [
+        "José de Alencar",
+        "Luis de Camões",
+        "Cruz e Sousa",
+        "Raimundo Correa",
+        "Lima Barreto"
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 28,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "A anáfora e a catáfora são dois mecanismos de coesão textual que regulam como uma palavra ou expressão remete a outro elemento no discurso. Assinale a alternativa correta:",
+      "opcoes": [
+        "Usa-se \"isso\" para algo que não foi citado anteriormente e \"isto\" para retomar algo já mencionado na oração.",
+        "A anáfora anuncia o que será falado, já a catáfora retoma algo já mencionado.",
+        "Um exemplo do uso da catáfora é: \"Chonsky é um linguísta norte-americano. ELE é conhecido por ter criado a gramática gerativa\".",
+        "Um exemplo do uso da anáfora é: \"ESTE é o problema: a falta de organização\".",
+        "Usa-se \"essa\" para retomar algo já mencionado e \"esta\" para algo que não foi citado anteriormente."
+      ],
+      "resposta_correta": 4
+    },
+    {
+      "id": 29,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Qual das alternativas apresenta uma característica da primeira geração do Romantismo no Brasil?",
+      "opcoes": [
+        "A) Uso de linguagem científica e objetiva.",
+        "B) Valorização da razão acima das emoções.",
+        "C) Exaltação da natureza e do herói nacional.",
+        "D) Crítica social com tom irônico.",
+        "E) Retrato fiel da realidade, sem idealizações."
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 30,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Qual a quantidade de versos e estrofes, o tipo de verso e rima que o conto épico \"Os Lusíadas\" possui respectivamente?",
+      "opcoes": [
+        "8.816 versos, 1.102 estrofes, decassílabo, ABAB ABAB",
+        "8.800 versos, 1.100 estrofes, decassílabo, ABCD ABCD",
+        "8.102 versos, 1.816 estrofes, dodecassílabo, ABAB ABCC",
+        "8.816 versos, 1.102 estrofes, decassílabo, ABAB ABCC",
+        "8.816 versos, 1.102 estrofes, dodecassílabo, ABAB ABAB"
+      ],
+      "resposta_correta": 3
+    },
+    {
+      "id": 31,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Assinale a alternativa em que o uso da crase está correto:",
+      "opcoes": [
+        " A) Entreguei o relatório à ele antes do prazo.",
+        "B) Chegaremos à noite para o evento.",
+        "C) Maria foi à pé até a escola.",
+        " D) Estou disposto à enfrentar qualquer desafio.",
+        "E) Nunca me refiro à pessoas ausentes."
+      ],
+      "resposta_correta": 1
+    },
+    {
+      "id": 32,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Assinale a alternativa que preenche corretamente as lacunas do texto ao lado: \"Refiro-me ___ atitudes de crianças que, por serem mimadas por seus pais, são levadas ___ acreditar que são o centro do universo, já que uma ___ uma de suas ações são parabenizadas incessantemente\".",
+      "opcoes": ["à - a - à", "as - à - a", "a - à - à", "às - a - a", "as - a - a"],
+      "resposta_correta": 3
+    },
+    {
+      "id": 33,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "Salvador Dali, um artista surrealista, criou diversas obras durante sua vida. Sua obra mais conhecida é:",
+      "opcoes": ["A Persistência da Memória", "A Santa Ceia", "O Grito", "Monalisa", "Abaporu"],
+      "resposta_correta": 0
+    },
+    {
+      "id": 34,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Selecione a alternativa que apresenta uma palavra oxítona.",
+      "opcoes": ["Cateter", "Órfão", "Garrafa", "Mesa", "Cadeira"],
+      "resposta_correta": 0
+    },
+    {
+      "id": 35,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "O samba é um estilo musical de origem africana, que foi trazido pelos escravos no século XVI. No entanto, o estilo era mal visto pela sociedade, considerando que era um período colonial. Por conta do preconceito, o ato da participação dessas rodas de samba era proibido.\nQual é o nome da lei responsável por essa proibição?\n",
+      "opcoes": [
+        "Lei Intríseca",
+        "Lei de Criminalização",
+        "Lei do Samba",
+        "Lei da Vadiagem",
+        "Nenhuma das alternativas"
+      ],
+      "resposta_correta": 3
+    },
+    {
+      "id": 36,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": " Quais as fases do romantismo no Brasil?",
+      "opcoes": [
+        "Nacionalista, Ultrarromântica e Condoreira.",
+        "Trovadorista, Condoreira e Dadaísta.",
+        "Romântica, Indianista e Grega.",
+        "Parnasiana, Classicista e Conteporânea.",
+        "Realista e Surrealista"
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 37,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "Qual das frases abaixo possui a figura de linguagem eufemismo?",
+      "opcoes": [
+        "Ele já não está mais entre nós.",
+        "Subi para cima.",
+        "Chorei rios de lágrimas.",
+        "A saudade bateu à porta.",
+        "Ela tem muitas bocas para alimentar."
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 38,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Olavo Bilac, grande escritor brasileiro fazia parte de um movimento literário caracterizado pela objetividade e impessoalidade, culto as formas e à estética. Qual o nome desse movimento?",
+      "opcoes": ["Romantismo ", "Simbolismo", "Barroco", "Parnasianismo", "Modernismo"],
+      "resposta_correta": 3
+    },
+    {
+      "id": 39,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Para Filippo, o que significava a guerra?",
+      "opcoes": [
+        "A guerra é a higiene do mundo, pois representa a purificação através da violência.",
+        "A guerra é um símbolo do caos irracional que ameaça a ordem.",
+        "A guerra é uma herança bárbara das sociedades antigas, incompatível com o espírito moderno.",
+        "A guerra de ser evitada, pois interrompe o desenvolvimento tecnológico e artístico que o Futurismo valoriza.",
+        "A guerra é a essência do mundo, um princípio que gera movimento e mudança. "
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 40,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "A principal característica da primeira geração romântica é: ",
+      "opcoes": [
+        "Culto à morte, subjetividade e pessimismo",
+        "Espiritualismo, misticismo",
+        "Nacionalismo, idealização da figura indígena",
+        "Racionalismo, objetividade e crítica social"
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 41,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Assinale a alternativa em que a frase tenha sentido de:\n\n\"Ela exalava o cheiro da flor de lavanda.\"",
+      "opcoes": [
+        "Ela cheirava a flor de lavanda.",
+        "Ela cheirava há flor de lavanda.",
+        "Ela cheirava à flor de lavanda.",
+        "Ela cheirava de flor de lavanda.",
+        "Ela cheirava com flor de lavanda."
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 42,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "O Realismo, que sucedeu o Romantismo, tem como uma de suas principais características:",
+      "opcoes": [
+        "A idealização dos personagens e a fuga da realidade.",
+        "O uso de linguagem poética e foco no amor platônico.",
+        "A crítica à sociedade e análise racional dos comportamentos.",
+        "O uso de mitos e lendas nacionais.",
+        "A valorização da fé e da espiritualidade."
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 43,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "O Parnasianismo surgiu na França em 1866, e no Brasil em 1882, com a publicação de “Fanfarras”, de Teófilo Dias. O Parnasianismo é caracterizado pela representação da estética beleza no texto, não tendo compromisso com o contexto e as críticas sociais.\nQuais seriam os aspectos importantes para uma estética perfeita vista pelo Parnasianismo?\n",
+      "opcoes": [
+        " Rimas, metrificação e descritivismo",
+        "Rimas, subjetivismo e sonetos",
+        "Metrificação, pessoalidade e sonetos",
+        "Subjetivismo, pessoalidade e descritivismo",
+        "Nenhuma das alternativas"
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 44,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Quem foi a figura mais importante do surrealismo?",
+      "opcoes": ["Travis Scott", "Beethoven", "Machado de Assis", "Chico Buarque", "Salvado Dalí"],
+      "resposta_correta": 4
+    },
+    {
+      "id": 45,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "Assinale a frase em que a concordância verbal está correta:",
+      "opcoes": [
+        "Os alunos da sala fez silêncio.",
+        "Houveram muitos problemas na prova.",
+        "Fazem dez anos que moro aqui.",
+        "Existem pessoas que gostam disso.",
+        "Os meninos tem prova amanhã"
+      ],
+      "resposta_correta": 3
+    },
+    {
+      "id": 46,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "O romantismo foi um momento literário que foi marcado por suas fases, as quais possuem focos diferentes mas compartilham um mesmo período. Sua segunda geração ficou conhecida como Geração Byronista, ou Geração Mal-Do-Século, em que o amor jamais vence, sua ambientação frequentemente noturna. Levando em consideração as características da Geração Byronista, qual das seguintes obras literárias pertence a esse período?",
+      "opcoes": ["Senhora.", "O Cortiço.", "Lucíola.", "Iracema.", "Noite na Taverna."],
+      "resposta_correta": 4
+    },
+    {
+      "id": 47,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Sobre as escolas literárias, assinale a alternativa que as apresenta na ordem cronológica.",
+      "opcoes": [
+        "Trovadorismo, Barroco, Humanismo, Naturalismo.",
+        "Classicismo, Barroco, Quinhentismo, Realismo.",
+        "Trovadorismo, Naturalismo, Barroco, Modernismo.",
+        "Romantismo, Realismo, Naturalismo, Parnasianismo.",
+        "Romantismo, Realismo, Simbolismo, Naturalismo."
+      ],
+      "resposta_correta": 3
+    },
+    {
+      "id": 48,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "O escritor Machado de Assis é bastante reconhecido pelos seus livros no período do Realismo. Sendo eles fortemente marcados pela crítica ao comportamento e psicológico humano de modo social e individual.\nO realismo faz crítica a qual movimento literário?\n",
+      "opcoes": [
+        "Renascimento ",
+        "Arcadismo",
+        "Romantismo",
+        "Parnasianismo",
+        "Nenhuma das alternativas"
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 49,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Nas alternativas abaixo qual dos lemas Árcades tem como significado \"Aproveite o dia\"?",
+      "opcoes": ["Locus Amoeno", "Fugeris Urban", "Tempos Fugite", "Hocus Pocus", "Carpe Diem"],
+      "resposta_correta": 4
+    },
+    {
+      "id": 50,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Quais são características  do movimento literário da Segunda Geração Romântica (Byronismo)?",
+      "opcoes": [
+        "Inspirada pelo Lorde Byron, é marcada por histórias otimistas e encorajadoras",
+        "É marcada pela vida boêmia e pessimista, mas que dá tudo certo no final",
+        "É marcada pela ingenuidade de viver de forma otimista e dar tudo errado no final",
+        "É marcada pela vida boêmia e o pessimismo, que dá tudo errado no final",
+        "Nenhuma das alternativas"
+      ],
+      "resposta_correta": 3
+    },
+    {
+      "id": 52,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Seguindo as normas da Língua Portuguesa, os verbos intransitivos são aqueles que não exigem complemento/objeto; os transitivos indiretos exige complemento/objeto e preposição; os transitivos diretos exige objeto e o transitivo indireto/direto exige dois objetos e preposição. Assinale a alternativa que indique a transitividade incorreta:",
+      "opcoes": [
+        "\"O relógio despertou\" - intransitivo",
+        "\"Juliana gosta de música\" - transitivo indireto",
+        "\"Comprei um perfume\" - transitivo direto",
+        "\"Eu amo minha mãe\" - intransitivo",
+        "\"Comprei flores para você\" - transitivo indireto/direto"
+      ],
+      "resposta_correta": 3
+    },
+    {
+      "id": 53,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "Lima Barreto viveu durante um período de grandes transformações políticas e econômicas, e isso se reflete em suas obras. Qual das alternativas traz um título literário, escrito por Lima Barreto?",
+      "opcoes": ["Cemitério dos vivos", "O príncipe", "Os sertões", "O cortiço", "Senhora"],
+      "resposta_correta": 0
+    },
+    {
+      "id": 54,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "No romance Dom Casmurro, o narrador Bentinho conta sua história com o objetivo de:",
+      "opcoes": [
+        "A) Celebrar a juventude vivida no seminário e sua amizade com Escobar.",
+        "B) Mostrar como sua carreira como advogado foi bem-sucedida.",
+        "C) Defender-se de uma possível traição de Capitu e justificar seu comportamento.",
+        "D) Relatar fielmente os acontecimentos de sua vida, sem juízo de valor.",
+        "E) Construir um romance romântico com final feliz e reconciliação amorosa."
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 55,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "Na frase \"Gostaria de saber o ___ você fez isso?\". Assinale a alternativa que contém o \"porque\" adequado.",
+      "opcoes": ["Porquê", "Porque", "Por quê", "Por que", "Car diguê"],
+      "resposta_correta": 0
+    },
+    {
+      "id": 56,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "Qual dos seguintes movimentos vanguardistas possui como características a negação da lógica e da razão, o uso do absurdo e do acaso e a crítica a cultura burguesa e ao capitalismo?",
+      "opcoes": ["Cubismo.", "Dadaísmo.", "Futurismo.", "Surrealismo.", "Expressionismo."],
+      "resposta_correta": 1
+    },
+    {
+      "id": 57,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Cansados da literatura exagerada, os Arcadistas se propunham a fazer uma escrita simples, levando uma série de princípios como norte, sendo um deles \"Inutilia truncat\" que significa \"Cortar o inútil\", mostrando sua oposição as ideias do movimento anterior, o Barroco. O Arcadismo é marcado por sua simplicidade, busca em apreciar as coisas do dia a dias e fuga das grandes cidades, sendo assim, qual das obras abaixo é Arcadista?",
+      "opcoes": [
+        "Marília de Dirceu.",
+        "Auto da Barca do Inferno.",
+        "Vaso Chinês.",
+        "Sociedade dos Poetas Mortos.",
+        "Vidas Secas."
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 58,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Quantas sílabas poéticas possui a frase abaixo:\n\"Oh! que saudades que tenho\"",
+      "opcoes": ["6", "7", "8", "9", "10"],
+      "resposta_correta": 1
+    },
+    {
+      "id": 59,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "O Dadaísmo foi uma vanguarda europeia do início do século XX, caracterizado, principalmente, por ser considerado um movimento artístico-literárii disruptivo para os padrões artísticos de sua época. Considerando a natureza do movimento, seus precursores o nomearam de acordo com os \"ismos\", sufixo comum para os movimentos artísticos cuja origem etimológica vem do latim. Sabendo disso qual o significado do nome Dadaísmo?",
+      "opcoes": [
+        "Dadaísmo vem do idioma anglo-saxônico língua que originou o inglês, alemão e outros idiomas europeus e foi baseado na palavra dadērök que significa \"bobo\" ou \"aquele que não pensa\", para fugir das normas que seguiam os outros movimentos.",
+        "Dadaísmo não significa nada.",
+        "Dadaísmo vem dos guerreiros dádicos nome dado a uma ordem de soldados romanos \"suicidas\" treinados para atacar aleatoriamente no campo de batalha focando em destruir as formações inimigas e seu nome vem de dados por não representarem um número ou unidade de posição fixa.",
+        "Dadaísmo vem do personagem Dadinho do filme \"Cidade de Deus\" que muda de nome em momento emblemático do filme.",
+        "Dadaísmo vem de \"dade\" como onomatopeia comum para o balbucear de recém-nascidos, também associada por linguistas como origem das palavras mamãe e papai em diversas línguas."
+      ],
+      "resposta_correta": 1
+    },
+    {
+      "id": 60,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Qual das frases abaixo apresenta um erro de uso de crase?",
+      "opcoes": [
+        "Fui à escola para buscar os documentos",
+        "Ela entregou o presente à amiga",
+        "Ele foi à praia com os amigos",
+        "Ela foi à festa sem avisar ninguém",
+        "Fui à pé até o mercado"
+      ],
+      "resposta_correta": 4
+    },
+    {
+      "id": 61,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Qual das alternativas a seguir traz características do movimento literário simbolismo?",
+      "opcoes": [
+        "Interesse superficial pela mente humana e linguagem precisa.",
+        "Musicalidade, uso de reticências, misticismo e subjetividade interna.",
+        "Interesse pela loucura e objetividade.",
+        "Apreço pela forma, crítica a subjetividade e dualidade entre bem e mal.",
+        "Nenhuma das anteriores. "
+      ],
+      "resposta_correta": 1
+    },
+    {
+      "id": 62,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Quais as principais características da Tropicália?",
+      "opcoes": [
+        "Crítica Social e Mistura Eclética",
+        "Crítica Social e Rebelião ",
+        "Melodias Suaves e Voz",
+        "Ritmo e Improvisação",
+        "Ritmo e Crítica Social"
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 63,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "O Fauvismo tem uma característica que o distingue das demais artes. Assinale abaixo a alternativa que corretamente, define uma característica importante no Fauvismo:",
+      "opcoes": [
+        "Uso de cores intensas e \"puras\".",
+        "Uma arte saída quase que de um sonho, portanto, impressionante, surreal, inteligível.",
+        "Que não tenha absoluto sentido nenhum.",
+        "Uso de apenas figuras geométricas.",
+        "Uso de cores e formas no intuito de capturar emoções no sentido abstrato."
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 64,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Qual dos autores pertence ao pré-modernismo?",
+      "opcoes": [
+        "Alphonsus de Guimaraes",
+        "Obano Bilac",
+        "Cruz e Souza",
+        "Lima Barreto",
+        "Raimundo Correa"
+      ],
+      "resposta_correta": 3
+    },
+    {
+      "id": 65,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "O que caracterizava as obras do movimento Cubista? (Cubismo)",
+      "opcoes": [
+        "Valorização do inconsciente e dos sonhos.",
+        "Representação fiel da natureza e da perspectiva.",
+        "Uso de formas geométricas e fragmentação da imagem.",
+        "Tema urbano com foco na velocidade e movimento.",
+        "Obras feitas utilizando somente cubos."
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 66,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "Quando surgiu o Parnasianismo no Brasil?",
+      "opcoes": ["1850", "1887", "1866", "1843", "1882"],
+      "resposta_correta": 4
+    },
+    {
+      "id": 67,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Em quais das alternativas , o uso da crase não é indicado?",
+      "opcoes": [
+        "Para Indicar horas",
+        "Antes de palavras no masculino",
+        "Antes de palavras no feminino",
+        "Caso a palavra \"distância\" esteja determinada",
+        "NDA"
+      ],
+      "resposta_correta": 3
+    },
+    {
+      "id": 68,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Eufismo e comparação, são duas figuras de linguagem extremamente presentes na nossa vida. Assinale corretamente a frase que, tenha essas duas figuras em seu conteúdo:",
+      "opcoes": [
+        "\"Ele assim como seu pai, tornou-se um apreciador demasiado de bebidas alcoólicas.\"",
+        "\"O pai, faz isso como muito havia feito na infância. Por isso, hoje, continua com esse comportamento.\"",
+        "\"A falência existencial de crer, e isso com frequência, que a existência material da matrix, se dá por questionamentos, revela que como na fantasia, o homem se vê repartido em uma profunda questão, que de profundo verdadeiramente é o tempo gasto em sua \"dor\", de algo impossível decxomprovação.\"",
+        "Assim como ele fazia, penso que deve ser feito.",
+        "O tempo é um rio que nunca volta à nascente."
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 69,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Qual das alternativas  apresenta características da segunda fase do Romantismo no Brasil?",
+      "opcoes": [
+        "A valorização do Indigena",
+        "A exaltação da natureza e do nacionalismo",
+        "O subjetivismo e o pessimismo",
+        "O uso de temas urbanos e industriais",
+        "Nenhuma das alternativas"
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 70,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "Sobre a vanguardas artísticas  europeias do início do século XX, assinale a alternativa correta",
+      "opcoes": [
+        "O expressionismo buscava representar a realidade com objetividade e realidade.",
+        "O dadaísmo valorizava a razão e a lógica como formas de expressão.",
+        "O futurismo exaltava a velocidade, máquinas e o progresso tecnológico.",
+        "O surrealismo rejeitava os sonhos e o inconsciente como inspiração para a arte."
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 71,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Qual das alternativas não corresponde a uma característica das vanguardas europeias?",
+      "opcoes": [
+        "Rompimento com os padrões artísticas tradicionais.",
+        "Experimentação estética e inovação formal.",
+        "Valorização da arte como espelho fiel da natureza.",
+        "Envolvimento com questões sociais e políticas."
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 72,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Qual dos artistas abaixo é mais associado ao movimento artístico conhecido como Fauvismo?",
+      "opcoes": [
+        "Pablo Picasso",
+        "Wassily Kandinsky",
+        "Henri Matisse",
+        "Salvador Dalí",
+        "Claude Monet"
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 73,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Qual das alternativas abaixo apresenta um exemplo de metáfora?",
+      "opcoes": [
+        "\"O sol sorria para mim naquela manhã.\"",
+        "\"Ele correu como um leopardo.\"",
+        "\"Silêncio absoluto: apenas o tic-tac do relógio.\"",
+        "\"Ela passou rápido demais, como um raio.\"",
+        "\"O sino tocava: bim, bam, bum.\""
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 74,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "Qual movimento literário brasileiro foi marcado pela valorização do nacionalismo, da natureza e do índio como herói?",
+      "opcoes": ["Realismo", "Simbolismo", "Parnasianismo", "Romantismo", "Modernismo"],
+      "resposta_correta": 3
+    },
+    {
+      "id": 76,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "Em qual das frases a seguir o uso da crase está correto?",
+      "opcoes": [
+        "Entreguei o relatório à ele ontem.",
+        "Fui à feira comprar frutas.",
+        "Cheguei à tempo de vê-lo.",
+        "Assistimos à um bom filme.",
+        "Ela foi à pé para o trabalho."
+      ],
+      "resposta_correta": 1
+    },
+    {
+      "id": 79,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Qual a principal característica do movimento Cubista?",
+      "opcoes": [
+        "Utilização de imagens realistas e detalhadas.",
+        "Pinturas que representam apenas a perspectiva do artista de determinado objeto.",
+        "Representação da realidade por meio de diversos pontos de vista.",
+        "Obras com foco em representações religiosas.",
+        "Criação de figuras abstratas através da utilização de cubos."
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 81,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Em qual século e país surgiu o Parnasianismo?",
+      "opcoes": [
+        "Surgiu na França no século XIX.",
+        "Surgiu na Inglaterra no século XV.",
+        "Surgiu na Inglaterra, com data indefinida.",
+        "Surgiu na |França no século XX.",
+        "Surgiu na Alemanha e se desenvolveu na França no século XIX."
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 82,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Em qual das seguintes frases o uso da crase está incorreto?",
+      "opcoes": [
+        "Estou me referindo a qualquer um.",
+        "Vou à pé e você, a cavalo.",
+        "Ficamos à espera de mais informações.",
+        "Pedimos pizza à moda da casa.",
+        "Fui à farmácia no centro de Franca."
+      ],
+      "resposta_correta": 1
+    },
+    {
+      "id": 83,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Quem é considerado criador do cubismo, junto com Pablo Picasso?",
+      "opcoes": [
+        "Salvador Dalí",
+        "Georges Braque",
+        "Van Gogh",
+        "Claude Monet",
+        "Leonardo da Vinci"
+      ],
+      "resposta_correta": 1
+    },
+    {
+      "id": 85,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "Assinale a alternativa correta de acordo com a norma culta da língua portuguesa:",
+      "opcoes": [
+        "A 5 anos não a vejo.",
+        "Aonde você mora?",
+        "Nas férias, ele foi à Roma.",
+        " Daqui a dois meses, irei a Lisboa. ",
+        "Me refiro às ideias que tivemos semana passada."
+      ],
+      "resposta_correta": 3
+    },
+    {
+      "id": 86,
+      "tema": "portugues",
+      "bloco": 2,
+      "enunciado": "Assinale a alternativa que utiliza a crase INDEVIDAMENTE:",
+      "opcoes": [
+        "Eu dei o presente à minha amiga, e não à sua.",
+        "Sentou-se à janela, triste.",
+        "É difícil nos falarmos à distância. ",
+        "Fiz uma visita à casa de meus avós.",
+        "O pagamento será à vista ou a prazo?"
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 87,
+      "tema": "portugues",
+      "bloco": 3,
+      "enunciado": "O romantismo brasileiro possui três gerações. Sobre elas, é correto afirmar:\n",
+      "opcoes": [
+        "A terceira geração, chamada de byronista, possui uma escrita que valoriza a morte enquanto enaltece o Brasil e suas características.",
+        "A segunda geração foca em enaltecer a fauna e a flora brasileiras, com a presença da figura do herói indígena.",
+        "O mal do século influenciou diretamente os textos da geração que passou por ele, com temáticas como a escravidão e problemas sociais sendo seus principais temas.",
+        " Para a segunda geração, o amor verdadeiro era inexistente, não acreditavam em um futuro utópico e muitos autores tiveram uma morte precoce.",
+        "A geração indianista era extremamente patriota e enaltecia os portugueses por terem descoberto o Brasil."
+      ],
+      "resposta_correta": 3
+    },
+    {
+      "id": 88,
+      "tema": "portugues",
+      "bloco": 4,
+      "enunciado": "É correto afirmar que as principais características do Classicismo eram:\n",
+      "opcoes": [
+        "razão e retorno a valores antigos.",
+        "diversos tipos de cantigas com diferentes intuitos.",
+        "a fé católica sendo colocada em dúvida.",
+        "pastorialismo e natureza estática.",
+        "relação entre classes sociais diferentes e amor não correspondido."
+      ],
+      "resposta_correta": 0
+    },
+    {
+      "id": 230,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "São características do renascimento:",
+      "opcoes": [
+        "Rejeitar completamente a cultura clássica greco-romana. ",
+        "Valorizar a fé e a contemplação como únicas formas de conhecimento. ",
+        "Antropocentrismo, racionalismo e o uso da perspectiva. ",
+        "Eliminar a representação do corpo humano por razões morais. ",
+        "Priorizar o abstrato em detrimento da realidade observável. "
+      ],
+      "resposta_correta": 2
+    },
+    {
+      "id": 238,
+      "tema": "portugues",
+      "bloco": 1,
+      "enunciado": "O movimento cubista, criado por Pablo Picasso e Georges Braque, caracteriza-se por:",
+      "opcoes": [
+        "Representação da figura humana de forma realista e naturalista. ",
+        "Uso da perspectiva linear herdada do Renascimento. ",
+        "Fragmentação das formas e representação simultânea de diferentes ângulos.  ",
+        "Representação abstrata baseada apenas em cores vibrantes. ",
+        "Exclusiva produção de esculturas monumentais. "
+      ],
+      "resposta_correta": 2
+    }
+  ],
+  "pistas": {}
+}
